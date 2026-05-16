@@ -215,15 +215,19 @@ smart-car-robot/
 
 | Name | Role |
 |------|------|
-| Salma Kadeeb | Motor Module + Bluetooth Module (UART firmware) |
-| Alaa | *(add role)* |
-| Youstina Aziz | *(add role)* |
-| Joseph | *(add role)* |
-| Youssef | *(add role)* |
+| Salma Kadeeb | Bluetooth Module (UART firmware) |
+| Alaa allah | Avoid Obstacle |
+| Youstina Aziz | IR Sensor |
+| Joseph Nader | Line Following |
+| Youssef Gadallah | Hardware Circuit + Motor Module |
+| Alla Saber | Ulterasonic + LCD |
 
 **Supervisor:** Dr. Khaled Saada
-**Teaching Assistant:** TA. Youssef El-Sheheimy
+
+**Teaching Assistant:** TA. Youssef El-Sheheimyq
+
 **Course:** The AVR Microcontroller and Embedded Systems
+
 
 ---
 
