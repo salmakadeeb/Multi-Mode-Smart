@@ -1,6 +1,5 @@
 # Multi-Mode Smart Car Robot
 > Autonomous robot built on ATmega32 with 3 operating modes: Bluetooth control, obstacle avoidance, and line following.
-![Uploading 6 1.png…]()
 
 
 ---
