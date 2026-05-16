@@ -3,6 +3,7 @@
 
 
 ---
+<img width="1033" height="559" alt="image" src="https://github.com/user-attachments/assets/a70cdd7e-5246-4545-8d3b-56affa03756e" />
 
 ## 📌 Project Overview
 
